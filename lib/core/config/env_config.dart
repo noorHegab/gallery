@@ -1,8 +1,7 @@
 class EnvConfig {
   // Replace this with your actual Pexels API key
   // You can get a free API key from: https://www.pexels.com/api/
-  static const String pexelsApiKey =
-      'TJTT90jYS2hykKJem0hXiMSQjhdWmEEJx97tj1UJIgaL8xnqGMBAAxjc';
+  static const String pexelsApiKey = 'your-actual-api-key-here';
 
   // API endpoints
   static const String pexelsBaseUrl = 'https://api.pexels.com/v1/';
